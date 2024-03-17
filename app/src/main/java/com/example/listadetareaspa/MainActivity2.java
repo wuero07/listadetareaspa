@@ -11,8 +11,8 @@ import androidx.appcompat.app.AppCompatActivity;
 public class MainActivity2 extends AppCompatActivity {
 
 
-    private static final String USUARIO_VALIDO = "usuario";
-    private static final String CONTRASEÑA_VALIDA = "contraseña";
+    private static final String USUARIO_VALIDO = "Angel";
+    private static final String CONTRASEÑA_VALIDA = "2004";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
